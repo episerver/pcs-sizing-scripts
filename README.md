@@ -1,3 +1,6 @@
+# Update before archival
+This fork was used as a review method for the work done in https://jira.sso.episerver.net/browse/EOPS-4352. No longer needed. Archiving it.
+
 # pcs-sizing-scripts
 
 Prisma Cloud Sizing Scripts
